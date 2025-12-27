@@ -6,6 +6,11 @@ This project implements a temperature-based alert system using an **Arduino Uno*
 The project was designed and tested using **Tinkercad Circuits**, focusing on sensor interfacing and conditional control logic.
 
 ---
+## 🔗 Tinkercad Simulation
+Tinkercad project link:  
+https://www.tinkercad.com/things/15LkbjdWQqR-practical-2-temp-and-
+humidity-
+sensor?sharecode=iQwa4Xf2YSQuENN6yQ5a2JC4GJr_1NAFeUdWDeItqds
 
 ## 🛠 Components Used
 - Arduino Uno
